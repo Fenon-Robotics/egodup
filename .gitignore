@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+egodup-db/
+review/
+*.mp4
+*.mov
+*.npy
+*.faiss
+*.torchscript.pt
+

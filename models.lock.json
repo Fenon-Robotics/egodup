@@ -1,0 +1,15 @@
+{
+  "models": {
+    "sscd-disc-mixup": {
+      "filename": "sscd_disc_mixup.torchscript.pt",
+      "sha256": "9f26bd4c848cc19b73d2ae92eea6e04886f61a7b764ceb7a13aeee62e6a6db56",
+      "size_bytes": 98791638,
+      "source": "https://dl.fbaipublicfiles.com/sscd-copy-detection/sscd_disc_mixup.torchscript.pt",
+      "upstream_repository": "https://github.com/facebookresearch/sscd-copy-detection",
+      "upstream_commit": "95902662f2217a5f4aa45f2a3fc70a01dfd3b66a",
+      "redistributed": false,
+      "terms_status": "Checkpoint is downloaded separately; operator review required."
+    }
+  }
+}
+
