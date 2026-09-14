@@ -41,10 +41,10 @@ dev = ["build==1.3.0", "pytest==8.4.1", "pytest-cov==6.2.1", "ruff==0.12.9"]
 egodup = "egodup.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/Fenon-Robotics/egodump"
-Documentation = "https://github.com/Fenon-Robotics/egodump#readme"
-Issues = "https://github.com/Fenon-Robotics/egodump/issues"
-Source = "https://github.com/Fenon-Robotics/egodump"
+Homepage = "https://github.com/Fenon-Robotics/egodup"
+Documentation = "https://github.com/Fenon-Robotics/egodup#readme"
+Issues = "https://github.com/Fenon-Robotics/egodup/issues"
+Source = "https://github.com/Fenon-Robotics/egodup"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/egodup"]

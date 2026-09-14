@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fenon-Robotics/egodump/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Fenon-Robotics/egodump/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/Fenon-Robotics/egodup/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Fenon-Robotics/egodup/actions/workflows/ci.yml/badge.svg"></a>
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-67e8f9.svg"></a>
   <img alt="Python 3.11–3.12" src="https://img.shields.io/badge/python-3.11%20%7C%203.12-8b5cf6.svg">
   <img alt="Status: experimental" src="https://img.shields.io/badge/status-experimental-f59e0b.svg">
@@ -88,8 +88,8 @@ See [architecture](docs/architecture.md) and [upstream provenance](third_party/U
 - optional NVIDIA GPU for `--device cuda:0`
 
 ```bash
-git clone https://github.com/Fenon-Robotics/egodump.git
-cd egodump
+git clone https://github.com/Fenon-Robotics/egodup.git
+cd egodup
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -e '.[dev]'
