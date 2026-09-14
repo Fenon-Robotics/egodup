@@ -15,4 +15,3 @@ Include the affected version, reproduction steps, impact, and any suggested miti
 - A detection result is not an authorization decision and must not directly trigger deletion, rejection, or payment action.
 
 Only the latest commit on `main` currently receives security fixes while the project remains pre-1.0.
-

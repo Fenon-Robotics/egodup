@@ -32,4 +32,3 @@ Tests that require the SSCD checkpoint should use the explicit model setup flow;
 - Update `THIRD_PARTY_NOTICES.md` and `third_party/UPSTREAM.md` when upstream code is introduced or changed.
 
 By participating, you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
-
